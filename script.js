@@ -1,4 +1,4 @@
-const scriptURL = "https://script.google.com/macros/s/AKfycbznB6H5Vmue6tYPEAXj0xMx_VDz_pc7Na18HE9QOwdXLi8FaR1PZHFKSFS8agVDgQT5/exec"; // Substitua
+const scriptURL = "https://script.google.com/macros/s/AKfycbycl1Y1iomVeabhE6Awhb7Dk4FzoqBToQPQGsiSfkW58kbQN3gJ72YDMxYewqELBUgK/exec"; // Substitua
 
 fetch(scriptURL)
   .then(res => res.json())
